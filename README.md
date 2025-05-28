@@ -1,2 +1,2 @@
-# kickskart-backend
+# KicksKart Backend
 Backend repo for the KicksKart project
